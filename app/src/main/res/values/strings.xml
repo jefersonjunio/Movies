@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <!-- Tela Login -->
+    <string name="txt_inscreva_se">Novo por aqui? Inscreva-se agora</string>
+    <string name="txt_entrar">Entrar</string>
+    <string name="txt_senha">Senha</string>
+    <string name="txt_email">E-mail</string>
+    <string name="txt_campo">Preencha o campo.</string>
+
+    <!-- Tela Cadastro -->
+    <string name="txt_nome">Nome</string>
+    <string name="txt_continuar">Continuar</string>
+    <string name="txt_endereco">Endereço</string>
+    <string name="txt_telefone">Telefone</string>
+    <string name="txt_data_nasc">Data de nascimento</string>
+    <string name="txt_crie_sua_conta">Crie uma conta para iniciar sua assinatura</string>
+    <string name="txt_entrar_cadastro">Entrar</string>
+    <string name="txt_cadastro_sucesso">Cadastro feito com sucesso!</string>
+    <string name="txt_cadastro_falha">Erro ao cadastrar usuário!</string>
+
+
+    <!-- Tela Main-->
+    <string name="menu_inicio">Início</string>
+    <string name="menu_buscar">Buscar</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_em_breve">Breve</string>
+    <string name="menu_downloads">Downloads</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Tela Add -->
+    <string name="txt_titulo">Título</string>
+    <string name="txt_genero">Gênero</string>
+    <string name="txt_elenco">Elenco</string>
+    <string name="txt_ano">Ano</string>
+    <string name="txt_duracao">Duração</string>
+    <string name="txt_sinopse">Sinopse</string>
+    <string name="txt_cadastrar">Cadastrar</string>
+    <string name="txt_cadastrar_sucesso">Filme cadastrado com sucesso!</string>
+    <string name="txt_cadastrar_erro">Erro ao salvar filme!</string>
+    <string name="txt_selecione_imagem">Selecione uma imagem.</string>
+    <string name="txt_info_obrigatoria">Informação obrigatória!</string>
+
+    <!-- Tela Fragment Busca -->
+    <string name="txt_busca_hint">Busque por filme, gênero, etc...</string>
+    <string name="txt_nenhum_resultado">Nenhum resultado encontrado.</string>
+    <string name="txt_min_caracteres">Mínimo 3 caracteres.</string>
+    <string name="txt_nenhum_post">"Nenhum post encontrado com o nome pesquisado.</string>
+
+    <!-- Tela Detalhe Post -->
+    <string name="txt_relevancia">98% relevante</string>
+    <string name="txt_ano_detalhe">2021</string>
+    <string name="txt_classificacao">L</string>
+    <string name="txt_duracao_detalhe">140 min</string>
+    <string name="txt_op_semelhantes">Opções semelhantes</string>
+    <string name="txt_compartilhe_detalhe">Compartilhe</string>
+    <string name="txt_classifique_detalhe">Classifique</string>
+    <string name="txt_minha_lista_detalhe">Minha lista</string>
+    <string name="txt_idioma_detalhe">Português, Inglês</string>
+    <string name="txt_idiomas">Idiomas:</string>
+    <string name="txt_direcao_nome">Chad Stolmiton</string>
+    <string name="txt_direcao">Direção:</string>
+    <string name="txt_elenco_nome">Brian Hull, Andy Samberg</string>
+    <string name="txt_elenco_detalhe">Elenco:</string>
+    <string name="txt_sinopse_detalhe">TesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTeste</string>
+    <string name="txt_baixar">Baixar</string>
+    <string name="txt_assistir">Assistir</string>
+    <string name="text_duracao">%s min</string>
+
+    <!-- Tela Adapter Categoria -->
+    <string name="txt_categoria">Ação</string>
+
+    <!-- Tela Adapter List Download -->
+    <string name="txt_tamanhoFilme">18 | 377 MB</string>
+    <string name="txt_nenhum_download">Nenhum download efetuado.</string>
+
+    <!-- Tela Adapter List Breve -->
+    <string name="txt_compartilhar">Compartilhar</string>
+    <string name="txt_receber_aviso">Receber aviso</string>
+    <string name="txt_data_lancamento">Em 16 de setembro</string>
+    <string name="txt_resumo">De roer as unhas • Sombrios • Drama • Religião • Crimes</string>
+
+    <!-- Tela Fragment Busca -->
+    <string name="txt_buscas_populares">Buscas populares</string>
+    <string name="txt_aguarde">Aguarde...</string>
+
+    <!-- Tela Menu Toolbar inicio -->
+    <string name="txt_sobre">Sobre</string>
+    <string name="txt_deslogar">Deslogar</string>
+
+
+
+</resources>

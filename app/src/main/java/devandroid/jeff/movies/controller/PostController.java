@@ -1,8 +1,6 @@
 package devandroid.jeff.movies.controller;
 
 import android.net.Uri;
-import android.view.View;
-import android.widget.Toast;
 
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.storage.StorageReference;
@@ -11,7 +9,6 @@ import com.google.firebase.storage.UploadTask;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 import devandroid.jeff.movies.database.FirebaseHelper;
-import devandroid.jeff.movies.fragment.AddFragment;
 import devandroid.jeff.movies.model.Post;
 
 public class PostController {

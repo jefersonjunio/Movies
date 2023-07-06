@@ -18,14 +18,6 @@ public class Usuario {
         DatabaseReference usuarioRef = FirebaseHelper.getDatabaseReference();
         this.setId(usuarioRef.push().getKey());
     }
-
-    public void salvar() {
-        DatabaseReference usuarioRef = FirebaseHelper.getDatabaseReference()
-                .child("usuarios")
-                .child(getId());
-        usuarioRef.setValue(this);
-    }
-
     public String getId() {
         return id;
     }

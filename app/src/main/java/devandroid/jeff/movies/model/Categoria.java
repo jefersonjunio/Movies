@@ -16,22 +16,6 @@ public class Categoria {
     public Categoria() {
 
     }
-
-    public Categoria(String nome) {
-        this.nome = nome;
-        DatabaseReference categoriaRef = FirebaseHelper.getDatabaseReference();
-        this.setId(categoriaRef.push().getKey());
-
-        salvar();
-    }
-
-    private void salvar() {
-        DatabaseReference categoriaRef = FirebaseHelper.getDatabaseReference()
-                .child("categorias")
-                .child(getId());
-        categoriaRef.setValue(this);
-    }
-
     public String getId() {
         return id;
     }

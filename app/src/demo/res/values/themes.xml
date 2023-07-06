@@ -15,7 +15,7 @@
     </style>
 
     <style name="BackgroundApp">
-        <item name="android:background">@color/teal_200</item>
+        <item name="android:background">@color/white</item>
     </style>
 
     <style name="TextColorApp">

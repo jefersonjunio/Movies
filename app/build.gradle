@@ -36,7 +36,8 @@ android {
         demo {
             dimension "version"
             applicationId "devandroid.jeff.movies.demo"
-
+            versionCode 2
+            versionName "1.1"
 
         }
 

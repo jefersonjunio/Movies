@@ -2,14 +2,11 @@ package devandroid.jeff.movies.controller;
 
 
 import android.content.Context;
-import android.content.Intent;
-import android.view.View;
 import android.widget.Toast;
 
 import java.util.Objects;
 import java.util.concurrent.atomic.AtomicBoolean;
 
-import devandroid.jeff.movies.activity.MainActivity;
 import devandroid.jeff.movies.database.FirebaseHelper;
 import devandroid.jeff.movies.model.Usuario;
 
